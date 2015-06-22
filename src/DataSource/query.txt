@@ -1,0 +1,1 @@
+update_port=>UPDATE portadisp SET ip=?, porta=? WHERE dispositivo=?
